@@ -1,0 +1,16 @@
+<amp-iframe width="500"
+  height="281"
+  layout="responsive"
+  sandbox="allow-scripts allow-same-origin allow-popups"
+  allowfullscreen
+  frameborder="0" frameborder="0" src="https://jsfiddle.net/santoshdms2003/p4b6L46c/7/embedded/result/" style="margin-top:501px"></amp-iframe>
+
+
+=========================================================================================================================
+
+<amp-iframe width="500"
+  height="281"
+  layout="responsive"
+  sandbox="allow-scripts allow-same-origin allow-popups"
+  allowfullscreen
+  frameborder="0" frameborder="0" src="https://rawgit.com/santoshdms2003/testing/master/test.html" style="margin-top:501px"></amp-iframe>
