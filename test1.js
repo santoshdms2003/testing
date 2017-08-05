@@ -1,6 +1,7 @@
 $(document).ready(function(){
- $("#btnsubmit",opener.document).click(function(){
-var result = "<b>Hello! </b>" + $("#txtname",opener.document).val();
-      $("#output",opener.document).html(result);
+	
+ window.parent.$("#btnsubmit").click(function(){
+var result = "<b>Hello! </b>" + window.parent.$("#txtname").val();
+      window.parent.$("#output").html(result);
     });
 });
