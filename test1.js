@@ -1,6 +1,6 @@
 $(document).ready(function(){
- $("#btnsubmit").click(function(){
-var result = "<b>Hello! </b>" + $("#txtname").val();
-      $("#output").html(result);
+ $("#btnsubmit",opener.document).click(function(){
+var result = "<b>Hello! </b>" + $("#txtname",opener.document).val();
+      $("#output",opener.document).html(result);
     });
 });
